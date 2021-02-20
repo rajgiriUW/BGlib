@@ -1,0 +1,36 @@
+BGlib.gmode.translators.df\_utils.virtual\_data
+===============================================
+
+.. automodule:: BGlib.gmode.translators.df_utils.virtual_data
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      EmptyVirtualDataset
+      ExpandableVirtualDataset
+      VirtualData
+      VirtualDataset
+      VirtualGroup
+   
+   
+
+   
+   
+   
+
+
+

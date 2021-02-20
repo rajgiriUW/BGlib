@@ -1,0 +1,26 @@
+BGlib.gmode.translators.general\_mode\_vs.GVSTranslator
+=======================================================
+
+.. currentmodule:: BGlib.gmode.translators.general_mode_vs
+
+.. autoclass:: GVSTranslator
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~GVSTranslator.is_valid_file
+      ~GVSTranslator.translate
+   
+   
+
+   
+   
+   

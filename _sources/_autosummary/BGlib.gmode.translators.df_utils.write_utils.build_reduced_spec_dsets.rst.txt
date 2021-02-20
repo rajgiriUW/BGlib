@@ -1,0 +1,6 @@
+BGlib.gmode.translators.df\_utils.write\_utils.build\_reduced\_spec\_dsets
+==========================================================================
+
+.. currentmodule:: BGlib.gmode.translators.df_utils.write_utils
+
+.. autofunction:: build_reduced_spec_dsets

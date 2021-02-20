@@ -1,0 +1,26 @@
+BGlib.gmode.translators.df\_utils.virtual\_data.VirtualGroup
+============================================================
+
+.. currentmodule:: BGlib.gmode.translators.df_utils.virtual_data
+
+.. autoclass:: VirtualGroup
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~VirtualGroup.add_children
+      ~VirtualGroup.show_tree
+   
+   
+
+   
+   
+   

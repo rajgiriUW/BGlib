@@ -1,0 +1,24 @@
+BGlib.gmode.translators.df\_utils.virtual\_data.EmptyVirtualDataset
+===================================================================
+
+.. currentmodule:: BGlib.gmode.translators.df_utils.virtual_data
+
+.. autoclass:: EmptyVirtualDataset
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+   
+   
+
+   
+   
+   
